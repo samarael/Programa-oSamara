@@ -1,0 +1,23 @@
+Lokomat
+Paciente chegou ao consultório; (Processamento)
+Iniciar sessão; (entrada)
+Se não chegou, não iniciar a sessão; (estrutura de decisão)
+Posicione o paciente no lokomat; (estrutura de decisão)
+Ajuste o equipamento ao paciente; (Processamento)
+Colocar o paciente na posição ortostatica; (estrutura de decisão)
+Ajuste o exoesqueleto ao paciente; (estrutura de decisão)
+Se estiver tudo ajustado, inicar a sessão; (estrutura de decisão)
+se não estiver, ajustar paciente e terapia a sessão. (processmanto)
+
+/home/samara.costa/Downloads/lokomat.jpg
+
+ZeroG
+Paciente chegou ao consultorio; (Processamento)
+Iniciar sessão; (entrada)
+Se não chegou, não iniciar a sessão; (estrutura de decisão)
+Coloque a cinta no paciente; (processamento)
+Ajuste o peso do paciente, o controle de quedas e posicionamento no aparelho; ((estrutura de decisão)
+Se estiver tudo ajustado, iniciar a sessão; (estrutura de decisão)
+Se não estiver, ajustar e iniciar a terapia. (processamento)
+
+/home/samara.costa/Downloads/ZeroG.jpg
