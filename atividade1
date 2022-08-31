@@ -21,3 +21,18 @@ Se estiver tudo ajustado, iniciar a sessão; (estrutura de decisão)
 Se não estiver, ajustar e iniciar a terapia. (processamento)
 
 /home/samara.costa/Downloads/ZeroG.jpg
+
+pseudocodigo
+**Inicio**
+**Escreva** "O paciente chegou ao consultório"
+**Leia** "sim ou não"
+**se** não, aguardar a cehgada para iniciar"
+**se** sim, iniciar terapia.
+<posicionar o paciente>
+<iniciar a terapia>
+<finalizar terapia>
+**escreva** "Proxima quinta feira, sera a proxima sessão"
+**se sim**, então **voltar ao inicio**
+** se não**, **escreva** "pode ser na outra quinta"
+**se sim** "Finaliza".
+
